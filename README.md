@@ -1,2 +1,2 @@
 # EstudosLinguagemC
-Meus estudos na linguagem C.
+Meus estudos na linguagem C!
